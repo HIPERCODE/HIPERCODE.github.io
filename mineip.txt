@@ -1,1 +1,1 @@
-tcp.cloudpub.ru:18495
+tcp.cloudpub.ru:33776
