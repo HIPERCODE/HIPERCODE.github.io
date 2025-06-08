@@ -1,1 +1,1 @@
-tcp.cloudpub.ru:15160
+//tcp.cloudpub.ru:15160
